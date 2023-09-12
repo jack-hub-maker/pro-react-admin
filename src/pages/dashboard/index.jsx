@@ -9,7 +9,7 @@ const Dashboard = () => {
   const navigateType = useNavigationType()
   return (
     <FixLayout className={styles.dashboard}>
-      <h3>Look, more routes!</h3>
+      <h3>Look, more routes!1</h3>
       <h4>Navigate type: {navigateType}</h4>
       <Routes>
         <Route
